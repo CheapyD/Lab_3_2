@@ -1,15 +1,5 @@
-﻿  Car.cpp
-C:\Users\maksd\source\repos\Lab_3_2\Lab_3_2\Car.h(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
-C:\Users\maksd\source\repos\Lab_3_2\Lab_3_2\Car.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
-  Engine.cpp
-C:\Users\maksd\source\repos\Lab_3_2\Lab_3_2\Engine.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
-  Lab_3_2.cpp
+﻿  Lab_3_2.cpp
 C:\Users\maksd\source\repos\Lab_3_2\Lab_3_2\Car.h(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
 C:\Users\maksd\source\repos\Lab_3_2\Lab_3_2\Truck.h(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
 C:\Users\maksd\source\repos\Lab_3_2\Lab_3_2\Lab_3_2.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
-  Truck.cpp
-C:\Users\maksd\source\repos\Lab_3_2\Lab_3_2\Car.h(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
-C:\Users\maksd\source\repos\Lab_3_2\Lab_3_2\Truck.h(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
-C:\Users\maksd\source\repos\Lab_3_2\Lab_3_2\Truck.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
-  Создание кода...
   Lab_3_2.vcxproj -> C:\Users\maksd\source\repos\Lab_3_2\Debug\Lab_3_2.exe

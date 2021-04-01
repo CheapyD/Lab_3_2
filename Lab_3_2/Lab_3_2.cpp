@@ -26,4 +26,8 @@ int main()
 
 	cout << "Return Object" << endl;
 	cout << ReturnObj(N) << endl;
+
+	cout << "Principle of substitution" << endl;
+	K = N;
+	cout << K << endl;
 }
