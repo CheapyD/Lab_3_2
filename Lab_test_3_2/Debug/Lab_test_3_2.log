@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  Lab_test_3_2.cpp
+C:\Users\maksd\source\repos\Lab_3_2\Lab_3_2\Car.h(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\maksd\source\repos\Lab_3_2\Lab_3_2\Truck.h(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\maksd\source\repos\Lab_3_2\Lab_3_2\Truck.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\maksd\source\repos\Lab_3_2\Lab_test_3_2\Lab_test_3_2.cpp(3,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+     Создается библиотека C:\Users\maksd\source\repos\Lab_3_2\Debug\Lab_test_3_2.lib и объект C:\Users\maksd\source\repos\Lab_3_2\Debug\Lab_test_3_2.exp
+  Lab_test_3_2.vcxproj -> C:\Users\maksd\source\repos\Lab_3_2\Debug\Lab_test_3_2.dll
